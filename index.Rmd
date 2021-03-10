@@ -1,0 +1,12 @@
+---
+site: blogdown:::blogdown_site
+---
+
+<img src="Jamie_Photo.jpeg" style="width:30%; border:10px solid; margin-right: 20px" align="left">
+
+My goal in life is to always continue learning regardless of the occupation I hold.  I am currently working as a Post-Doctoral scholar at the [Quantitative Methodology and Innovation Center](https://www.fcrr.org/projects/projects_qmi.html) at Florida State University with an emphasis on the [Campus Reimagined Project](https://campusreimagined.fsu.edu).  I graduated from FSU with a PhD in Cognitive Psychology and an emphasis in Expert Performance research in the lab of [Anders Ericsson](https://psy.fsu.edu/faculty/ericssonk/ericsson.dp.php).  
+
+The current emphasis of my work is in measurement across educational psychology in addition to other fields where fellow colleagues seek my assistance for completion of methodology and data analyses.
+
+My full CV is available [here](JLT_CV.pdf).  
+Email, GoogleScholar, Twitter, and OSF links in the upper right of the page.   
